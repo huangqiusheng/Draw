@@ -16,17 +16,17 @@
             <mxPoint x="-860" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cDxK8CzM8uQFrHm3YZL3-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cDxK8CzM8uQFrHm3YZL3-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cDxK8CzM8uQFrHm3YZL3-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1440" y="170" as="sourcePoint" />
-            <mxPoint x="-1480" y="120" as="targetPoint" />
+            <mxPoint x="-1060" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cDxK8CzM8uQFrHm3YZL3-5" value="&lt;span style=&quot;color: rgb(40, 121, 22); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17.5px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(238, 255, 232); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;SubseasonalClimateUSA&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(40, 121, 22); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Lucida Grande&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17.5px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(238, 255, 232); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 11.9px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;2024 年 1 月 16 日&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="170" width="240" height="50" as="geometry" />
+          <mxGeometry x="-1067" y="8" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cDxK8CzM8uQFrHm3YZL3-6" value="EFFICIENT SUBSEASONAL WEATHER FORECAST USING TELECONNECTION-INFORMED TRANSFORMERS&#xa;2024 年 2 月 16 日&#xa;OCI数据引入&#xa;&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="180" width="560" height="50" as="geometry" />
+          <mxGeometry x="-1270" y="180" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cDxK8CzM8uQFrHm3YZL3-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cDxK8CzM8uQFrHm3YZL3-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
